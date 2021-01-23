@@ -3,4 +3,4 @@ mc = Minecraft.create()
 x = 10
 y = 110
 z = 12
-mc.player.setTilePos (x, y, z)
+mc.player.setTilePos(x, y, z)
